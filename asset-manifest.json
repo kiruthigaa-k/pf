@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pf/static/css/main.3cf1aad5.css",
+    "main.js": "/pf/static/js/main.f672de1a.js",
+    "static/media/kiru.png": "/pf/static/media/kiru.24ebb9e5b11dc846966a.png",
+    "static/media/kiruthi.pdf": "/pf/static/media/kiruthi.ae4a7d4a9685b438ae1e.pdf",
+    "index.html": "/pf/index.html",
+    "main.3cf1aad5.css.map": "/pf/static/css/main.3cf1aad5.css.map",
+    "main.f672de1a.js.map": "/pf/static/js/main.f672de1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cf1aad5.css",
+    "static/js/main.f672de1a.js"
+  ]
+}
